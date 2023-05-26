@@ -25,6 +25,9 @@ https://charuhas10.github.io/ChromaShift/
 3. The user specifies the percentage by which they want to lighten or darken the color by moving the slider.
 4. The user can see the modified color's Hex Code and the shade in the output field.
 
+![Img](https://github.com/Charuhas10/ChromaShift/assets/72398218/2df7de6d-3631-4f7d-a537-a3b2e03664e3)
+
+
 ## Technologies used
 
 The following technologies were used in its development:
