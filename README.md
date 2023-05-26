@@ -49,3 +49,9 @@ When contributing, please ensure that you follow the established coding conventi
 ChromaShift is released under the MIT License, which means you are free to use, modify, and distribute the code for personal or commercial purposes. However, it comes with no warranty, and the authors will not be held liable for any damages caused by its use.
 
 Please see the LICENSE file for more details.
+
+## Contact
+
+Github: [@Charuhas10](https://github.com/Charuhas10)
+
+LinkedIn: [@charuhas-reddy](https://www.linkedin.com/in/charuhas-reddy-ab6409228/)
